@@ -1,0 +1,264 @@
+
+.nome{
+	width: 25%;
+	height: 60px;
+	margin-top: -5px;
+	margin-left: 5px;
+	color: white;
+	font-family: 'Pacifico';
+	font: 40px;
+	background-color: black;
+}
+
+.foto1{
+	width: 100%;
+	height: 400px;
+	margin-left: -8px;
+	margin-top: -3px;
+	position: absolute;
+	
+}
+.faixabranca{
+	width: 100%;
+	height: 60px;
+	margin-left: -10px;
+	margin-top:400px;
+	position: absolute;
+	background-color: #eeeeee;
+}
+.opc{
+	width: 80%;
+	height: 80px;
+	margin-left: 250px;
+	position: absolute;
+
+}
+.opc li{
+display: inline-block;
+
+
+}
+.opc  a{
+	margin-left: 100px;	
+	text-decoration: none;
+	text-transform: uppercase;
+	color:black;	
+	font-family: 'Pacifico', sans-serif;
+}
+
+.opc a:hover{
+	color: #fffd6a;
+	background: #383837;
+	padding: 9px;
+	transition: color,
+	background, 1s;
+	border-radius:9px;
+}
+.img2{
+	width: 20%;
+	margin-top: 500px;
+	margin-left: 1000px;
+	border-radius: 9px;	
+}
+.img2:hover{
+	background: white;
+	padding: 5px;
+	transition:
+	background, 1s;
+	border-radius:15px;
+}
+.inicio1{
+	width: 750px;
+	height: 400px;
+	margin-top: -435px;
+	margin-left: 120px;
+	color: black;
+	border-radius: 9px;
+	background-color: #ffffff;
+	}
+
+.inicio1 {
+     filter:alpha(opacity=50);
+     opacity: 0.4;
+     -moz-opacity:0.4;
+     -webkit-opacity:0.4;
+}
+
+.nome2{
+	margin-left: 30px;
+	margin-top: 20px;
+	font-family:'Lobster', cursive;
+	font: 25px ;
+}
+
+.faixabranca {
+     filter:alpha(opacity=50);
+     opacity: 0.4;
+     -moz-opacity:0.4;
+     -webkit-opacity:0.4;
+}
+.texto2{
+	font-family: 'Lobster', cursive;
+	font: 15px ;
+	margin-left: 15px;
+	margin-top: -15px;
+}
+
+.sobre1{
+	width: 750px;
+	height: 400px;
+	margin-top: -425px;
+	margin-left: 535px;
+	color: black;
+	border-radius: 9px;
+	background-color: #ffffff;
+	}
+
+.sobre1 {
+     filter:alpha(opacity=50);
+     opacity: 0.4;
+     -moz-opacity:0.4;
+     -webkit-opacity:0.4;
+}
+.nome3{
+	margin-left: 13px;
+	margin-top: 20px;
+	font-family:'Lobster', cursive;
+	font: 25px ;
+}
+.texto3{
+	font-family: 'Lobster', cursive;
+	font: 15px ;
+	margin-left: 10px;
+	margin-top: -15px;
+}
+
+.img3{
+	width: 20%;
+	margin-top: 180px;
+	margin-left: 120px;
+	border-radius: 9px;	
+}
+.img3:hover{
+	background: white;
+	padding: 5px;
+	transition:
+	background, 1s;
+	border-radius:15px;
+}
+
+.hobbies1{
+	width: 750px;
+	height: 400px;
+	margin-top: -400px;
+	margin-left: 115px;
+	color: black;
+	border-radius: 9px;
+	background-color: #eeeeee;
+	}
+
+.hobbies1 {
+     filter:alpha(opacity=50);
+     opacity: 0.4;
+     -moz-opacity:0.4;
+     -webkit-opacity:0.4;
+}
+.nome4{
+	margin-left: 50px;
+	margin-top: -150px;
+	font-family:'Lobster', cursive;
+	font: 25px ;
+}
+.texto4{
+	font-family: 'Lobster', cursive;
+	font: 15px ;
+	margin-left: 18px;
+	margin-top: 15px;
+}
+
+.img4{
+	width: 20%;
+	margin-top: 180px;
+	margin-left: 1000px;
+	border-radius: 9px;	
+}
+.img4:hover{
+	background: white;
+	padding: 5px;
+	transition:
+	background, 1s;
+	border-radius:15px;
+}
+.musica {
+	 filter:alpha(opacity=50);
+     opacity: 0.4;
+     -moz-opacity:0.4;
+     -webkit-opacity:0.4;
+}
+.mat{
+	height: 100px;
+	margin-top: 30px;
+	margin-left: 550px;
+}
+.momentos1{
+	width: 750px;
+	height: 400px;
+	margin-top: -365px;
+	margin-left: 535px;
+	color: black;
+	border-radius: 9px;
+	background-color: #ffffff;
+	}
+
+.momentos1 {
+     filter:alpha(opacity=50);
+     opacity: 0.4;
+     -moz-opacity:0.4;
+     -webkit-opacity:0.4;
+}
+.nome5{
+	margin-left: 13px;
+	margin-top: 40px;
+	font-family:'Lobster', cursive;
+	font: 25px ;
+}
+
+.img5{
+	width: 20%;
+	margin-top: 220px;
+	margin-left: 120px;
+	border-radius: 9px;	
+}
+.img5:hover{
+	background: white;
+	padding: 5px;
+	transition:
+	background, 1s;
+	border-radius:15px;
+}
+#fac{
+	margin-top: 25px;
+	margin-left: 50px;
+	font-family:'Lobster', cursive;
+	font: 15px ;
+	position: absolute;
+}
+#fotofac{
+	width: 100%;
+	margin-left:5px;
+    margin-top: 10px;
+    position: absolute;
+}
+#is{
+	margin-top: 180px;
+	margin-left: 50px;
+	font-family:'Lobster', cursive;
+	font: 15px ;
+	position: absolute;
+}
+#foto22{
+	width: 100%;
+	margin-left:5px;
+    margin-top: 10px;
+    position: absolute;
+}
